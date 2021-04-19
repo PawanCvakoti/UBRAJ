@@ -1,0 +1,14 @@
+body{margin:0.5% 0.5% 0.5% 0.5%;}
+.pawan{background:blue; padding:5%; float:left; width:40%;}
+.pawan1{background:green; padding:5%; float:left; width:40%;}
+.clear{clear:both;}
+
+nav{background:red;}
+nav ul{margin:5px; padding:0%;}
+nav ul li{list-style:none; padding:1%; margin:0.5%; float:left; background:yellow;}
+nav ul li a{text-decoration:underline red double 1px; display:block;   width:100%;}
+
+.ubraj{background:green; padding:5%; float:left; width:40%;}
+.ubraj1{background:blue; padding:5%; float:left; width:40%;}
+
+footer{text-align:center; background-color:orange; padding:2%; margin-top:0.5%; width:96%; }
